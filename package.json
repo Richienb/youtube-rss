@@ -1,6 +1,6 @@
 {
   "name": "youtube-rss",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Fetch YouTube RSS feeds",
   "license": "MIT",
   "repository": "Richienb/youtube-rss",
